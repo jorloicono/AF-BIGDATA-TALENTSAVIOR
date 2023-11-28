@@ -1,5 +1,14 @@
 # AF-BIGDATA-TALENTSAVIOR
 
+# DOCUMENTACIÓN
+
+- T-SQL: https://microsoftlearning.github.io/dp-080-Transact-SQL/
+- FABRIC: https://www.microsoft.com/es-es/microsoft-fabric
+- IGNITE: https://www.microsoft.com/es-es/cloudskillschallenge/ignite/registration/2023
+- DATABRICKS: https://www.databricks.com/
+- BIG DATA: https://aprenderbigdata.com/empezar-big-data/
+- MONGODB ATLAS: https://www.mongodb.com/atlas/database
+- 
 ## Motivación e introducción
 
 - Contexto. La sociedad de los datos y el paradigma data-driven.
