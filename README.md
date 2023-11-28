@@ -8,7 +8,10 @@
 - DATABRICKS: https://www.databricks.com/
 - BIG DATA: https://aprenderbigdata.com/empezar-big-data/
 - MONGODB ATLAS: https://www.mongodb.com/atlas/database
-- 
+- NEO4J SANDBOX: https://neo4j.com/sandbox/
+- MONGODB YA: https://www.tutorialesprogramacionya.com/mongodbya/
+- MONGO DB UNIVERSITY: https://learn.mongodb.com/catalog
+  
 ## Motivación e introducción
 
 - Contexto. La sociedad de los datos y el paradigma data-driven.
